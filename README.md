@@ -19,4 +19,4 @@ Details:
   ID: 208395608
 
 Github Pages Link:
-  https://wed-2023.github.io/assignment1-208395608/
+https://wed-2023.github.io/208395608/
