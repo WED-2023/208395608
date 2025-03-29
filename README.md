@@ -13,3 +13,10 @@ It includes:
 - **Contact Me**: Fill the form in order to contact devorah.
 
 The site is built using **HTML5** and **CSS3** and is designed to be uploaded to GitHub Pages.
+
+Details:
+  Author: Shai Karniro Da Silva,
+  ID: 208395608
+
+Github Pages Link:
+  https://wed-2023.github.io/assignment1-208395608/
